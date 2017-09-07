@@ -1,5 +1,11 @@
 # Important Note
-This project is no longer actively maintained. We recommend using the official [ansible-elasticsearch](https://github.com/elastic/ansible-elasticsearch) repo which is a lot more comprehensive.
+This is a fork of https://github.com/Traackr/ansible-elasticsearch. Which is no longer maintained.
+This fork should only be used if you know what you do. In other cases please use the official ansible elasticsearch 
+role [ansible-elasticsearch](https://github.com/elastic/ansible-elasticsearch)
+
+##Changes
+
+
 
 # Ansible Playbook for Elasticsearch
 [![Build Status](https://travis-ci.org/Traackr/ansible-elasticsearch.svg?branch=master)](https://travis-ci.org/Traackr/ansible-elasticsearch)
